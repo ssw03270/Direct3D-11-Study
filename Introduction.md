@@ -1,11 +1,13 @@
 # Introduction
 
-Direct3D 11 Graphics 는 게임, 과학, 어플리케이션 등에 사용하여 3차원 그래픽스를 만들 수 있다.
+Direct3D 11 은 게임, 과학, 어플리케이션 등에 사용하여 3차원 그래픽스를 만들 수 있다. Microsoft 에서 제작한 API 인 만큼, Microsoft Windows, XBOX 등 현대 게임 플랫폼의 반은 먹고 들어간다. 
 
     Supported runtime environments: Windows/C++
     Recommended programming languages: C/C++
     Minimum supported client: Windows 7
     Minimum supported server: Windows Server 2008 R2
+
+> 굳이 다렉을 공부하는 다음 학기 그래픽스 수업을 위해...
 
 ## Topics
 * Devices: Direct3D 11 의 devices 와 device-context 에 관한 내용
@@ -144,4 +146,3 @@ effect 를 rendering 하기 위해, render loop 에서 간단하게 두 개의 p
 > * Cloning an Effect
 > * Stream Out Syntax
 > * Differences Between Effects 10 and Effects 11
-
